@@ -1,6 +1,6 @@
-# NSAG M13 — Vendor Assurance
+# NSAG M13 — Traditional & Complementary Medicine Governance
 
-Retired NSAG prototype module covering Vendor Assurance.
+Retired standalone deployment of NSAG module M13, Traditional & Complementary Medicine Governance (Healthcare & Clinical). The module's canonical page is https://nsag-site.vercel.app/m13.
 
 **Live:** https://nsag-m13.vercel.app
 
@@ -10,7 +10,7 @@ This prototype has been retired. The deployment remains online as a record; it i
 
 ## Repository contents
 
-`index.html`, `vercel.json`
+`index.html`, `vercel.json`, `og.png`, `favicon.svg`, `apple-touch-icon.png`
 
 ## Local development
 
